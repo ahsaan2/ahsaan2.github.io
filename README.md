@@ -1,130 +1,38 @@
-# 👋 Hi, I'm Ahsaan ul Haq
+<h1 align="center">Hi 👋, I'm Ahsaan Ul Haq</h1>
+<h3 align="center">A Full-Stack Developer with strong backend and DevOps experience from India</h3>
 
-🚀 Full-Stack Developer | Backend-Focused | MCA Graduate  
-📍 Bengaluru, India  
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsaan2&label=Profile%20views&color=0e75b6&style=flat" alt="ahsaan2" /> </p>
 
-## 🧑‍💻 About Me
+- 🔭 I’m currently working on [CodeForShare – A real-time collaborative coding interview platform](https://github.com/ahsaan2)
 
-I am a **Full-Stack Developer** skilled in **Next.js, React.js, Node.js, TypeScript**, and modern backend systems.  
-A continuous learner with hands-on exposure to **Docker, GitHub Actions, AWS, and DevOps**, I enjoy building scalable, reliable software systems and collaborating in agile teams.
+- 🌱 I’m currently learning **System Design, Kubernetes, Advanced Backend Architecture**
 
----
+- 👯 I’m looking to collaborate on **Full-stack or backend projects involving real-time systems, APIs, or DevOps**
 
-## 🛠️ Technical Skills
+- 🤝 I’m looking for help with **Scaling real-time applications and improving system design**
 
-### Programming Languages
-- Java
-- TypeScript
-- Python
-- C++
-- .NET
+- 👨‍💻 All of my projects are available at [https://github.com/ahsaan2](https://github.com/ahsaan2)
 
-### Frameworks & Libraries
-- Spring Boot
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- FastAPI
+- 💬 Ask me about **Node.js, React, REST APIs, MongoDB, Docker, CI/CD**
 
-### Databases
-- MongoDB
-- PostgreSQL
-- MySQL
-- SQL / NoSQL
+- 📫 How to reach me **ahsaan1345@outlook.com**
 
-### Tools & Cloud
-- Docker
-- Kubernetes
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- Linux
-- Postman
+- 📄 Know about my experiences [https://ahsaan2.github.io/ahsaan.githhub.io/](https://ahsaan2.github.io/ahsaan.githhub.io/)
 
-### Core CS Concepts
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Operating Systems
-- Computer Networks
-- System Design
+- ⚡ Fun fact **Solved 290+ DSA problems and still enjoy debugging production issues**
 
-### Software Engineering
-- SDLC
-- Agile Methodology
-- Unit Testing (JUnit)
-- Problem Solving
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahsaanl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahsaanl/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/ahsaanulhaq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ahsaanulhaq/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/loneahsaan135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/loneahsaan135" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 💼 Internships & Experience
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsaan2&show_icons=true&locale=en&layout=compact" alt="ahsaan2" /></p>
 
-### **TrustRoc – Backend Project Intern**
-**Apr 2025 – Oct 2025 | Hybrid**
-- Built RESTful APIs using **Node.js** and **MongoDB**
-- Contributed to **Docker-based DevOps automation**
-- Implemented **CI/CD pipelines using GitHub Actions**
-- Worked in **Agile sprint cycles** with cross-functional teams
-- Designed scalable backend architecture following SDLC practices
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsaan2&show_icons=true&locale=en" alt="ahsaan2" /></p>
 
----
-
-### **Take It Smart – Full Stack Developer Intern**
-**Oct 2024 – Nov 2024 | Remote**
-- Developed frontend UI using **React.js**
-- Integrated **Node.js backend services**
-- Implemented **real-time collaboration features** for coding interviews
-
----
-
-## 🚀 Projects
-
-### **CodeForShare – Collaborative Coding Platform**
-- Built a real-time collaboration platform using **React.js, Node.js, WebSockets, MongoDB**
-- Implemented **video/audio chat** and **live code editor** for mock interviews
-- Added **unit testing** for critical components  
-**Tech Stack:** JavaScript, Node.js, Bootstrap, MongoDB, Python
-
----
-
-### **E-Blood Bank System**
-- Designed a complete system for blood donation management
-- Optimized **MySQL schema & queries**, improving response time by **25%**
-- Implemented backend logic using **Spring Boot**  
-**Tech Stack:** Spring Boot, SQL, HTML, CSS, JavaScript, MongoDB
-
----
-
-## 🎓 Education
-
-### **Master of Computer Applications (MCA)**
-**New Horizon College of Engineering, Bengaluru**  
-📅 2023 – 2025  
-🎯 CGPA: **8.09 / 10**
-
-### **Bachelor of Computer Applications (BCA)**
-**Chandigarh University, Punjab**  
-📅 2020 – 2023  
-🎯 CGPA: **7.67 / 10**
-
----
-
-## 🏆 Certifications & Achievements
-
-- 6th International Conference on **Data Science, Machine Learning & Applications (ICDSMLA 2024)**
-- **Journey to Cloud: Envision to Your Solution** – IBM
-- Solved **290+ DSA problems**
-- **Runner-up**, Inter-College Coding Competition (2025)
-
----
-
-## 📌 Interests
-- Backend Engineering
-- System Design
-- Cloud & DevOps
-- Distributed Systems
-- Competitive Programming
-
----
-
-⭐ *Feel free to explore my repositories and connect with me!*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsaan2&" alt="ahsaan2" /></p>

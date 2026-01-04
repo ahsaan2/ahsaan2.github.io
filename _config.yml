@@ -1,0 +1,6 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Ahsaan Ul Haq
+description: Full-stack developer skilled in Next.js, Node.js, React.js, TypeScript and modern data visualization
+libraries. Continuous learner with hands-on exposure to Docker, gitHub Actions, AWS and DevOps.
